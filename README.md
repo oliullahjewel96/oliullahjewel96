@@ -6,9 +6,9 @@ I'm Md. Oli Ullah Jewel from Bangladesh, I am a Frontend web developer and UI/UX
 
 Skills = {
        HTML,<br>
-       CSS,
-       JAVASCRIPT,
-       REACT,
-       GIT,
+       CSS,<br>
+       JAVASCRIPT,<br>
+       REACT,<br>
+       GIT,<br>
        MYSQL
   }
