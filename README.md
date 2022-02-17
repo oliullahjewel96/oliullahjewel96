@@ -5,10 +5,10 @@ I'm Md. Oli Ullah Jewel from Bangladesh, I am a Frontend web developer and UI/UX
 ![Oli's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliullahjewel96&show_icons=true&theme=dark)
 
 Skills = {<br>
-       &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; HTML,<br>
+       <strong> &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; HTML,<br>
        &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; CSS,<br>
        &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; JAVASCRIPT,<br>
        &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; REACT,<br>
        &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; GIT,<br>
-       &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; MYSQL <br>
+       &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; MYSQL <br> </strong>
   }
